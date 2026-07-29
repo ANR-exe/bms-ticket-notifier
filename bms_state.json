@@ -126,7 +126,7 @@
       "date": "20260731",
       "cat": "BUDGET",
       "price": "96.74",
-      "status": "2"
+      "status": "1"
     },
     "PGMV|20968|20260801|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -134,7 +134,7 @@
       "date": "20260801",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "1"
+      "status": "0"
     },
     "PGMV|20968|20260801|CLASSIC": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -207,93 +207,13 @@
       "cat": "CLASSIC",
       "price": "96.74",
       "status": "0"
-    },
-    "PGMV|20969|20260802|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "09:10 AM",
-      "date": "20260802",
-      "cat": "PRIME",
-      "price": "245.98",
-      "status": "0"
-    },
-    "PGMV|20969|20260802|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "09:10 AM",
-      "date": "20260802",
-      "cat": "CLASSIC",
-      "price": "96.74",
-      "status": "0"
-    },
-    "PGMV|21052|20260802|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "12:55 PM",
-      "date": "20260802",
-      "cat": "PRIME",
-      "price": "245.98",
-      "status": "1"
-    },
-    "PGMV|21052|20260802|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "12:55 PM",
-      "date": "20260802",
-      "cat": "CLASSIC",
-      "price": "96.74",
-      "status": "0"
-    },
-    "PGMV|20971|20260802|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "03:30 PM",
-      "date": "20260802",
-      "cat": "PRIME",
-      "price": "245.98",
-      "status": "1"
-    },
-    "PGMV|20971|20260802|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "03:30 PM",
-      "date": "20260802",
-      "cat": "CLASSIC",
-      "price": "96.74",
-      "status": "0"
-    },
-    "PGMV|20972|20260802|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "06:40 PM",
-      "date": "20260802",
-      "cat": "PRIME",
-      "price": "245.98",
-      "status": "0"
-    },
-    "PGMV|20972|20260802|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "06:40 PM",
-      "date": "20260802",
-      "cat": "CLASSIC",
-      "price": "96.74",
-      "status": "0"
-    },
-    "PGMV|20973|20260802|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "10:00 PM",
-      "date": "20260802",
-      "cat": "PRIME",
-      "price": "245.98",
-      "status": "1"
-    },
-    "PGMV|20973|20260802|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "10:00 PM",
-      "date": "20260802",
-      "cat": "CLASSIC",
-      "price": "96.74",
-      "status": "0"
     }
   },
   "dates": {
     "20260730": "AVAILABLE",
     "20260731": "AVAILABLE",
-    "20260801": "AVAILABLE",
-    "20260802": "BOOKABLE",
+    "20260801": "BOOKABLE",
+    "20260802": "AVAILABLE",
     "20260803": "AVAILABLE",
     "20260804": "AVAILABLE",
     "20260805": "AVAILABLE",
