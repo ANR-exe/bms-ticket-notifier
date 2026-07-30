@@ -127,13 +127,301 @@
       "cat": "BUDGET",
       "price": "96.74",
       "status": "0"
+    },
+    "PGMV|20968|20260801|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:10 AM",
+      "date": "20260801",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "0"
+    },
+    "PGMV|20968|20260801|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:10 AM",
+      "date": "20260801",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "0"
+    },
+    "PGMV|21047|20260801|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "12:55 PM",
+      "date": "20260801",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "0"
+    },
+    "PGMV|21047|20260801|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "12:55 PM",
+      "date": "20260801",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "0"
+    },
+    "PGMV|20965|20260801|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "03:30 PM",
+      "date": "20260801",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "0"
+    },
+    "PGMV|20965|20260801|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "03:30 PM",
+      "date": "20260801",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "0"
+    },
+    "PGMV|20966|20260801|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "06:40 PM",
+      "date": "20260801",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "0"
+    },
+    "PGMV|20966|20260801|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "06:40 PM",
+      "date": "20260801",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "0"
+    },
+    "PGMV|20967|20260801|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "10:00 PM",
+      "date": "20260801",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "0"
+    },
+    "PGMV|20967|20260801|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "10:00 PM",
+      "date": "20260801",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "0"
+    },
+    "INPR|63905|20260801|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "12:20 PM",
+      "date": "20260801",
+      "cat": "ELITE",
+      "price": "245.98",
+      "status": "0"
+    },
+    "INPR|63905|20260801|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "12:20 PM",
+      "date": "20260801",
+      "cat": "BUDGET",
+      "price": "96.74",
+      "status": "2"
+    },
+    "INPR|63906|20260801|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "03:45 PM",
+      "date": "20260801",
+      "cat": "ELITE",
+      "price": "245.98",
+      "status": "0"
+    },
+    "INPR|63906|20260801|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "03:45 PM",
+      "date": "20260801",
+      "cat": "BUDGET",
+      "price": "96.74",
+      "status": "0"
+    },
+    "INPR|63907|20260801|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:00 PM",
+      "date": "20260801",
+      "cat": "ELITE",
+      "price": "245.98",
+      "status": "0"
+    },
+    "INPR|63907|20260801|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:00 PM",
+      "date": "20260801",
+      "cat": "BUDGET",
+      "price": "96.74",
+      "status": "3"
+    },
+    "INPR|63908|20260801|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "10:10 PM",
+      "date": "20260801",
+      "cat": "ELITE",
+      "price": "245.98",
+      "status": "0"
+    },
+    "INPR|63908|20260801|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "10:10 PM",
+      "date": "20260801",
+      "cat": "BUDGET",
+      "price": "96.74",
+      "status": "3"
+    },
+    "PGMV|20969|20260802|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:10 AM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "0"
+    },
+    "PGMV|20969|20260802|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:10 AM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "0"
+    },
+    "PGMV|21052|20260802|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "12:55 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "0"
+    },
+    "PGMV|21052|20260802|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "12:55 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "0"
+    },
+    "PGMV|20971|20260802|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "03:30 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "1"
+    },
+    "PGMV|20971|20260802|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "03:30 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "0"
+    },
+    "PGMV|20972|20260802|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "06:40 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "0"
+    },
+    "PGMV|20972|20260802|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "06:40 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "0"
+    },
+    "PGMV|20973|20260802|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "10:00 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "1"
+    },
+    "PGMV|20973|20260802|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "10:00 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "0"
+    },
+    "INPR|63909|20260802|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "12:20 PM",
+      "date": "20260802",
+      "cat": "ELITE",
+      "price": "245.98",
+      "status": "0"
+    },
+    "INPR|63909|20260802|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "12:20 PM",
+      "date": "20260802",
+      "cat": "BUDGET",
+      "price": "96.74",
+      "status": "2"
+    },
+    "INPR|63910|20260802|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "03:45 PM",
+      "date": "20260802",
+      "cat": "ELITE",
+      "price": "245.98",
+      "status": "0"
+    },
+    "INPR|63910|20260802|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "03:45 PM",
+      "date": "20260802",
+      "cat": "BUDGET",
+      "price": "96.74",
+      "status": "2"
+    },
+    "INPR|63911|20260802|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:00 PM",
+      "date": "20260802",
+      "cat": "ELITE",
+      "price": "245.98",
+      "status": "1"
+    },
+    "INPR|63911|20260802|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:00 PM",
+      "date": "20260802",
+      "cat": "BUDGET",
+      "price": "96.74",
+      "status": "3"
+    },
+    "INPR|63912|20260802|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "10:10 PM",
+      "date": "20260802",
+      "cat": "ELITE",
+      "price": "245.98",
+      "status": "1"
+    },
+    "INPR|63912|20260802|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "10:10 PM",
+      "date": "20260802",
+      "cat": "BUDGET",
+      "price": "96.74",
+      "status": "3"
     }
   },
   "dates": {
     "20260730": "AVAILABLE",
-    "20260731": "BOOKABLE",
+    "20260731": "AVAILABLE",
     "20260801": "AVAILABLE",
-    "20260802": "AVAILABLE",
+    "20260802": "BOOKABLE",
     "20260803": "AVAILABLE",
     "20260804": "AVAILABLE",
     "20260805": "AVAILABLE",
